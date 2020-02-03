@@ -2,6 +2,8 @@
   <dictionary name="zhang">
     <words>
       <w>asgi</w>
+      <w>endfor</w>
+      <w>forloop</w>
     </words>
   </dictionary>
 </component>

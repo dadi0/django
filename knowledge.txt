@@ -5,3 +5,4 @@ wsgi(Python Web Server Gateway Interface)Web服务器网关接口
 基于HTTP协议，不支持WebSocket
 asgi(Asynchronous Server Gateway Interface)异步网关接口
 是wsgi的扩展，支持WebSocket
+
