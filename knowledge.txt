@@ -1,0 +1,7 @@
+cgi(Common Gateway Interface)通用网关接口
+定义客户端与Web服务器的交流方式
+wsgi(Python Web Server Gateway Interface)Web服务器网关接口
+基于python以cgi为标准做的扩展
+基于HTTP协议，不支持WebSocket
+asgi(Asynchronous Server Gateway Interface)异步网关接口
+是wsgi的扩展，支持WebSocket
