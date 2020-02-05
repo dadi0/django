@@ -2,7 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="eb7a9ba0-07e0-49ae-90e3-22deaba36e7d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/motion-graph-convas.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite/mydbengine/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite/mydbengine/base.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysql.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pipelinesmysql.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dictionaries/zhang.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dictionaries/zhang.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite/mysite/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/mysite/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tip.txt" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,8 +23,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Python Script" />
         <option value="HTML File" />
+        <option value="Python Script" />
       </list>
     </option>
   </component>
@@ -37,7 +45,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../movie_example" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
@@ -114,10 +122,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1175" y="323" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1580698908165" />
-    <state x="1220" y="279" key="FileChooserDialogImpl" timestamp="1580797790631">
+    <state x="1220" y="279" key="FileChooserDialogImpl" timestamp="1580884430976">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="1220" y="279" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1580797790631" />
+    <state x="1220" y="279" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1580884430976" />
     <state width="935" height="281" key="GridCell.Tab.0.bottom" timestamp="1580629588699">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -138,9 +146,9 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="461" y="162" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1580621118340" />
-    <state x="1121" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1580777123440">
+    <state x="1121" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1580892198123">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="1121" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1580777123440" />
+    <state x="1121" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1580892198123" />
   </component>
 </project>

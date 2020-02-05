@@ -3,8 +3,11 @@
     <words>
       <w>asgi</w>
       <w>bgimage</w>
+      <w>datebase</w>
       <w>endfor</w>
       <w>forloop</w>
+      <w>mydbengine</w>
+      <w>scrapy</w>
     </words>
   </dictionary>
 </component>

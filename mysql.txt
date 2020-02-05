@@ -1,0 +1,9 @@
+mysql -u root(用户名) -p    (管理员权限登陆)
+select user,host from mysql.user(查看用户和对应的主机)
+创建用户
+create user '(用户名)'@'(主机)' identified by '密码';
+grant select,insert,update,delete,create,drop(权限) on *.*(数据库) to '(用户名)'@'(主机)' with grant option;
+flush privileges;(释放)
+
+show databases;	展示数据库
+show tables;	展示表
