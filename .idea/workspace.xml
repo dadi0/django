@@ -2,15 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="eb7a9ba0-07e0-49ae-90e3-22deaba36e7d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/motion-graph-convas.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mysite/mydbengine/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mysite/mydbengine/base.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mysql.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pipelinesmysql.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dictionaries/zhang.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dictionaries/zhang.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysite/mysite/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/mysite/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tip.txt" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
