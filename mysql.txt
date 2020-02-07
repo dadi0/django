@@ -1,3 +1,7 @@
+Django连接mysql推荐'ENGINE': 'django.db.backends.mysql'这是python维护
+其余由于是纯python开发，效率不高
+windows安装需要先安装轮子，且轮子兼容性不好
+
 mysql -u root(用户名) -p    (管理员权限登陆)
 select user,host from mysql.user(查看用户和对应的主机)
 创建用户

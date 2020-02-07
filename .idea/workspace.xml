@@ -2,7 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="eb7a9ba0-07e0-49ae-90e3-22deaba36e7d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/dictionaries/zhang.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dictionaries/zhang.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/knowledge.txt" beforeDir="false" afterPath="$PROJECT_DIR$/knowledge.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite/mydbengine/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/Models_and_databases.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite/mydbengine/base.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite/mysite/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/mysite/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysql.txt" beforeDir="false" afterPath="$PROJECT_DIR$/mysql.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pipelinesmysql.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,15 +49,37 @@
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\GitHub\django\mysite\polls\templates\admin" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\GitHub\django\mysite\polls\static\polls\images" />
       <recent name="D:\GitHub\django\mysite\mysite" />
     </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\GitHub\django\mysite" />
+      <recent name="D:\GitHub\django\mysite\polls\templates\admin" />
+    </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.dbtest">
+    <configuration name="dbtest" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="django" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/dbtest.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="urls" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="django" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -73,6 +103,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.dbtest" />
         <item itemvalue="Python.urls" />
       </list>
     </recent_temporary>
@@ -106,41 +137,41 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="1032" y="179" key="#Inspections" timestamp="1580710635845">
+    <state x="1032" y="179" key="#Inspections" timestamp="1580969804321">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="1032" y="179" key="#Inspections/0.0.1920.1040@0.0.1920.1040" timestamp="1580710635845" />
+    <state x="1032" y="179" key="#Inspections/0.0.1920.1040@0.0.1920.1040" timestamp="1580969804321" />
     <state x="1175" y="323" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1580698908165">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1175" y="323" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1580698908165" />
-    <state x="1220" y="279" key="FileChooserDialogImpl" timestamp="1580884430976">
+    <state x="1220" y="279" key="FileChooserDialogImpl" timestamp="1580970951793">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="1220" y="279" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1580884430976" />
-    <state width="935" height="281" key="GridCell.Tab.0.bottom" timestamp="1580629588699">
+    <state x="1220" y="279" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1580970951793" />
+    <state width="936" height="205" key="GridCell.Tab.0.bottom" timestamp="1580958967534">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="935" height="281" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1580629588699" />
-    <state width="935" height="281" key="GridCell.Tab.0.center" timestamp="1580629588699">
+    <state width="936" height="205" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1580958967534" />
+    <state width="936" height="205" key="GridCell.Tab.0.center" timestamp="1580958967534">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="935" height="281" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1580629588699" />
-    <state width="935" height="281" key="GridCell.Tab.0.left" timestamp="1580629588699">
+    <state width="936" height="205" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1580958967534" />
+    <state width="936" height="205" key="GridCell.Tab.0.left" timestamp="1580958967534">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="935" height="281" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1580629588699" />
-    <state width="935" height="281" key="GridCell.Tab.0.right" timestamp="1580629588699">
+    <state width="936" height="205" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1580958967534" />
+    <state width="936" height="205" key="GridCell.Tab.0.right" timestamp="1580958967534">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="935" height="281" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1580629588699" />
-    <state x="461" y="162" key="SettingsEditor" timestamp="1580621118340">
+    <state width="936" height="205" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1580958967534" />
+    <state x="700" y="230" key="SettingsEditor" timestamp="1580965180314">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="461" y="162" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1580621118340" />
-    <state x="1121" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1580892198123">
+    <state x="700" y="230" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1580965180314" />
+    <state x="1121" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1580970904954">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="1121" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1580892198123" />
+    <state x="1121" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1580970904954" />
   </component>
 </project>

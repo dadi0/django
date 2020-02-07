@@ -6,3 +6,5 @@ wsgi(Python Web Server Gateway Interface)Web服务器网关接口
 asgi(Asynchronous Server Gateway Interface)异步网关接口
 是wsgi的扩展，支持WebSocket
 
+Object-relational mapping(ORM)对象关系映射
+使用面像对象的编程语言在不兼容类型系统之间转换数据的编程技术
