@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="eb7a9ba0-07e0-49ae-90e3-22deaba36e7d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/unitest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dictionaries/zhang.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dictionaries/zhang.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite/polls/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/polls/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysql.txt" beforeDir="false" afterPath="$PROJECT_DIR$/mysql.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/unitest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/unitest.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,7 +54,7 @@
       <recent name="D:\GitHub\django\mysite\polls\templates\admin" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.dbtest">
+  <component name="RunManager" selected="Python.test">
     <configuration name="dbtest" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="django" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -65,6 +68,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/dbtest.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="django" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -96,6 +120,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.test" />
         <item itemvalue="Python.dbtest" />
         <item itemvalue="Python.urls" />
       </list>
@@ -134,37 +159,37 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1032" y="179" key="#Inspections/0.0.1920.1040@0.0.1920.1040" timestamp="1580969804321" />
-    <state x="1175" y="323" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1581213957457">
+    <state x="1175" y="323" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1581907490656">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="1175" y="323" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1581213957457" />
-    <state x="1220" y="279" key="FileChooserDialogImpl" timestamp="1581214645606">
+    <state x="1175" y="323" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1581907490656" />
+    <state x="1220" y="279" key="FileChooserDialogImpl" timestamp="1581928123580">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="1220" y="279" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1581214645606" />
-    <state width="936" height="205" key="GridCell.Tab.0.bottom" timestamp="1580958967534">
+    <state x="1220" y="279" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1581928123580" />
+    <state width="936" height="280" key="GridCell.Tab.0.bottom" timestamp="1581922563126">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="936" height="205" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1580958967534" />
-    <state width="936" height="205" key="GridCell.Tab.0.center" timestamp="1580958967534">
+    <state width="936" height="280" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1581922563126" />
+    <state width="936" height="280" key="GridCell.Tab.0.center" timestamp="1581922563126">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="936" height="205" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1580958967534" />
-    <state width="936" height="205" key="GridCell.Tab.0.left" timestamp="1580958967534">
+    <state width="936" height="280" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1581922563126" />
+    <state width="936" height="280" key="GridCell.Tab.0.left" timestamp="1581922563126">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="936" height="205" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1580958967534" />
-    <state width="936" height="205" key="GridCell.Tab.0.right" timestamp="1580958967534">
+    <state width="936" height="280" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1581922563126" />
+    <state width="936" height="280" key="GridCell.Tab.0.right" timestamp="1581922563126">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="936" height="205" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1580958967534" />
+    <state width="936" height="280" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1581922563126" />
     <state x="700" y="230" key="SettingsEditor" timestamp="1580965180314">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="700" y="230" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1580965180314" />
-    <state x="1121" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1581213935268">
+    <state x="1121" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1581927366022">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="1121" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1581213935268" />
+    <state x="1121" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1581927366022" />
   </component>
 </project>
