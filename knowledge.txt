@@ -11,9 +11,21 @@ Object-relational mapping(ORM)对象关系映射
 
 一个类对应一张表,一个实例对应表中的一条数据,方法对应sql语句
 
-字典采用hash表的实现方式,为了减少散列冲突发生概率,散列表必须是稀疏的,所以字典在内存上开销大
+字典采用HashMap的实现方式,为了减少散列冲突发生概率,散列表必须是稀疏的,所以字典在内存上开销大
 列表采用动态数组,列表存储的是每个元素在内存中的地址(引用),当列表空白占位低于1/3时,
 会在内存中开辟一块更大的空间,并将旧列表中存储的地址复制到新列表中
+
+HashMap分析
+1.构造方法
+无参数构造方法
+创建一个空的HashMap,初始容量为16,负载因子为0.75
+含initialCapacity参数,则初始容量为initialCapacity
+含initialCapacity和loadFactor,初始容量不能小于0,大于最大容量则等于最大容量,负载因子大于0小于1,否则异常
+会设定threshold值,threshold=capacity*loadFactor,当HashMap的size到了threshold就要resize即扩容
+threshold会先被赋值为不小于capacity的2的指数次幂,即HashMap容量为不小于capacity的2的指数次幂
+HashMap采用链表法避免Hash冲突,链表长度大于TREEIFY_THRESHOLD(默认为8)则将链表转换为红黑树(自平衡二叉树),
+小于UNTREEIFY_THRESHOLD(默认为6)转回链表
+负载因子影响数据密度越小越消耗空间越不易冲突
 
 跨平台通过字节码和虚拟机实现，不同的虚拟机用于将字节码转换为对应平台的机器码
 
